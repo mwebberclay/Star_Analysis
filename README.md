@@ -42,5 +42,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mwebberclay/Star_Analysis.git
-   cd Star_Analysis
+   git clone https://github.com/mwebberclay/Star_Analysis
