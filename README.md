@@ -1,9 +1,9 @@
 # Star Data Analysis Project
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo-name)
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo-name)
+![GitHub stars](https://img.shields.io/github/stars/your-username/Star_Analysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/Star_Analysis?style=social)
+![GitHub issues](https://img.shields.io/github/issues/your-username/Star_Analysis)
+![GitHub license](https://img.shields.io/github/license/your-username/Star_Analysis)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
