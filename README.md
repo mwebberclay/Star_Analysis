@@ -35,7 +35,15 @@ The dataset used in this project is the **HYG Star Database**, which contains th
 
 The dataset is publicly available and can be downloaded from [here](http://www.astronexus.com/hyg).
 
----
+## Visualizations
+### Distribution of Star Types
+![Distribution of Star Types](images/star_type_distribution.png)
+
+### Temperature vs. Luminosity
+![Temperature vs. Luminosity](images/temperature_vs_luminosity.png)
+
+### Most Common Spectral Classes
+![Most Common Spectral Classes](images/common_spectral_classes.png)---
 
 ## Installation
 To run this project locally, follow these steps:
